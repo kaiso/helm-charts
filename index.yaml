@@ -10,6 +10,6 @@ entries:
     name: kom-operator
     type: application
     urls:
-    - https://kaiso.github.com/helm-charts/kom-operator-0.1.0.tgz
+    - https://kaiso.github.io/helm-charts/kom-operator-0.1.0.tgz
     version: 0.1.0
 generated: "2021-03-24T22:44:49.615466+02:00"
