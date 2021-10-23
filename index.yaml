@@ -3,9 +3,9 @@ entries:
   kom-operator:
   - apiVersion: v2
     appVersion: v2.1.0
-    created: "2021-10-23T21:50:29.912144+02:00"
+    created: "2021-10-23T22:38:14.731191+02:00"
     description: The KOM Operator Helm Chart
-    digest: 7cef1201558a9324a13dc8f9ab3bd91c6ad67d307024319e41b6cf23a53d4f8b
+    digest: 8b6cbed9cefc91b6c771d39494923f162dc4ff447515fcd16519141f82c6ed7c
     icon: https://raw.githubusercontent.com/kaiso/kom-operator/master/docs/kom-operator-log.png
     name: kom-operator
     type: application
@@ -34,4 +34,4 @@ entries:
     urls:
     - https://kaiso.github.io/helm-charts/kom-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-23T21:50:29.904521+02:00"
+generated: "2021-10-23T22:38:14.72393+02:00"
